@@ -1,0 +1,27 @@
+
+heji.webp
+size: 386,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 305,12
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 121,2
+  size: 84, 182
+  orig: 84, 182
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 414,13
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1

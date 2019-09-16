@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c07415ed-807f-45fb-b93c-baafea16862b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Hua01_01": {
+      "ver": "1.0.3",
+      "uuid": "157605a1-6503-46d3-861d-4deef9d0da87",
+      "rawTextureUuid": "c07415ed-807f-45fb-b93c-baafea16862b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 6,
+      "trimY": 7,
+      "width": 237,
+      "height": 136,
+      "rawWidth": 250,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

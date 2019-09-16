@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e43c48e2-3a93-4b39-820a-bad2f94836ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pinsanzhangpeke02": {
+      "ver": "1.0.3",
+      "uuid": "4f539a36-d605-44bc-80d9-ad8345214ee3",
+      "rawTextureUuid": "e43c48e2-3a93-4b39-820a-bad2f94836ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 42,
+      "height": 52,
+      "rawWidth": 42,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

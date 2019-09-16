@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "589d13cb-e4c6-4dc9-be01-128948713d2a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PaodekuaiGirl": {
+      "ver": "1.0.3",
+      "uuid": "0e003684-19d7-4008-a686-d508beb5ee83",
+      "rawTextureUuid": "589d13cb-e4c6-4dc9-be01-128948713d2a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 161,
+      "height": 164,
+      "rawWidth": 161,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

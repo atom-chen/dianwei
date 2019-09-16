@@ -1,0 +1,90 @@
+
+fish_43.png
+size: 438,765
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+benti
+  rotate: false
+  xy: 2, 491
+  size: 419, 272
+  orig: 419, 272
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 355, 359
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 404, 360
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+dengguan
+  rotate: false
+  xy: 2, 6
+  size: 159, 104
+  orig: 159, 104
+  offset: 0, 0
+  index: -1
+dengguang
+  rotate: false
+  xy: 2, 288
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 308, 171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 355, 405
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+qi-up
+  rotate: true
+  xy: 167, 94
+  size: 192, 139
+  orig: 192, 139
+  offset: 0, 0
+  index: -1
+shangya
+  rotate: false
+  xy: 205, 301
+  size: 148, 188
+  orig: 148, 188
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 308, 85
+  size: 84, 97
+  orig: 84, 97
+  offset: 0, 0
+  index: -1
+xaizuiba
+  rotate: false
+  xy: 163, 2
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+xiazuic
+  rotate: false
+  xy: 2, 112
+  size: 163, 174
+  orig: 163, 174
+  offset: 0, 0
+  index: -1

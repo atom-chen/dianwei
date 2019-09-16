@@ -1,0 +1,1080 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yuchao_animation",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "yuchao/ll": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                667,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                375,
+                0
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                49.49999999999994,
+                0
+              ]
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": [
+                88.8,
+                0
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 18
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/yc": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -671,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -373,
+                0
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                -57.50000000000006,
+                0
+              ]
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": [
+                -64.7,
+                0
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": -18
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/light": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 1
+            },
+            {
+              "frame": 0.35,
+              "value": 1.5
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 2.5
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 3
+            },
+            {
+              "frame": 0.45,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 1
+            },
+            {
+              "frame": 0.35,
+              "value": 1.5
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 2.5
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 3
+            },
+            {
+              "frame": 0.45,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.45,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/line-001": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -470,
+                82
+              ]
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": [
+                -64,
+                82
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                443,
+                82
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 3
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "yuchao/line-002": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                417,
+                -77.9
+              ]
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": [
+                217,
+                -75.4
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -408.7,
+                -77.5
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 3
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/waiquan": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.3,
+              "value": 0.5
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 3.07
+            },
+            {
+              "frame": 0.5,
+              "value": 3.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.3,
+              "value": 0.5
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 3.07
+            },
+            {
+              "frame": 0.5,
+              "value": 3.5
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/zhankai": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.4
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 1
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            },
+            {
+              "frame": 0.45,
+              "value": 1.93
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.4
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 1
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            },
+            {
+              "frame": 0.45,
+              "value": 1.93
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.38333333333333336,
+              "value": 255
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.45,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/guangyun": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 2
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": 3
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 2
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": 3
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 0
+            },
+            {
+              "frame": 0.45,
+              "value": 200
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 179
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/xingxing2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.38333333333333336,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 75.15463917525773
+            },
+            {
+              "frame": 1.7333333333333334,
+              "value": 75.15463917525773
+            },
+            {
+              "frame": 2,
+              "value": 90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.38333333333333336,
+              "value": 0
+            },
+            {
+              "frame": 0.8166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.9,
+              "value": 255
+            },
+            {
+              "frame": 1.2333333333333334,
+              "value": 150
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 204
+            },
+            {
+              "frame": 1.7333333333333334,
+              "value": 204
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 1.9333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.9333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/paopao2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -80,
+                -35
+              ]
+            },
+            {
+              "frame": 0.95,
+              "value": [
+                -80,
+                -25.727272727272723
+              ]
+            },
+            {
+              "frame": 1.6,
+              "value": [
+                -80,
+                23
+              ]
+            },
+            {
+              "frame": 1.8,
+              "value": [
+                -80,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.95,
+              "value": 255
+            },
+            {
+              "frame": 1.8,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/liuguang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.48333333333333334,
+              "value": [
+                -130,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                135,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.48333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 150
+            },
+            {
+              "frame": 1.95,
+              "value": 150
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/shexian": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0.6
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.3,
+              "value": [
+                11,
+                0
+              ]
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": [
+                115,
+                175
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/shexian2": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0.6
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.3,
+              "value": [
+                -2,
+                -3
+              ]
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": [
+                -97,
+                107
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/shexian3": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 0.8
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.3,
+              "value": [
+                -2,
+                -5
+              ]
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": [
+                -104,
+                -142
+              ]
+            }
+          ]
+        }
+      },
+      "yuchao/shexian4": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.38333333333333336,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 0.8
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.3,
+              "value": [
+                2,
+                -4
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                93,
+                -108
+              ]
+            }
+          ]
+        }
+      },
+      "yuchao/shexian5": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 0.8
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.3,
+              "value": [
+                7,
+                -2
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                164,
+                18
+              ]
+            }
+          ]
+        }
+      },
+      "yuchao/zhankai2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.55
+            },
+            {
+              "frame": 0.45,
+              "value": 1.98
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.55
+            },
+            {
+              "frame": 0.45,
+              "value": 1.98
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/xingxing3": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": -90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.2333333333333334,
+              "value": 150
+            },
+            {
+              "frame": 1.6166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/qipao_duoge": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                115,
+                71
+              ]
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": [
+                187,
+                131
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1.15,
+              "value": 255
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.5,
+              "value": -8
+            },
+            {
+              "frame": 1.15,
+              "value": -1
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.59
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 0.71
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.59
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 0.71
+            }
+          ]
+        }
+      },
+      "yuchao/fish_moh": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 150
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuchao/paopao1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 0
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.2833333333333334,
+              "value": 153
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.43333333333333335,
+              "value": -29
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.2833333333333334,
+              "value": 52
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 95
+            }
+          ]
+        }
+      },
+      "yuchao/qipao_duoge2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                116,
+                97
+              ]
+            },
+            {
+              "frame": 1.15,
+              "value": [
+                161,
+                145
+              ]
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": [
+                183,
+                227
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1.15,
+              "value": 255
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

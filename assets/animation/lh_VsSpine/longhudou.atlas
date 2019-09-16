@@ -1,0 +1,118 @@
+
+longhudou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow01
+  rotate: false
+  xy: 379, 121
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+Golw
+  rotate: false
+  xy: 116, 7
+  size: 98, 98
+  orig: 101, 101
+  offset: 1, 2
+  index: -1
+Light
+  rotate: false
+  xy: 494, 230
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+Light01
+  rotate: false
+  xy: 494, 230
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+S
+  rotate: false
+  xy: 286, 81
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+V
+  rotate: false
+  xy: 286, 47
+  size: 28, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 130, 167
+  size: 124, 79
+  orig: 128, 128
+  offset: 4, 26
+  index: -1
+languang
+  rotate: false
+  xy: 377, 184
+  size: 116, 62
+  orig: 128, 90
+  offset: 5, 14
+  index: -1
+圈01
+  rotate: false
+  xy: 320, 110
+  size: 58, 69
+  orig: 58, 71
+  offset: 0, 1
+  index: -1
+圈02
+  rotate: false
+  xy: 215, 20
+  size: 70, 85
+  orig: 71, 87
+  offset: 1, 1
+  index: -1
+虎云
+  rotate: false
+  xy: 255, 180
+  size: 121, 66
+  orig: 121, 66
+  offset: 0, 0
+  index: -1
+虎头
+  rotate: false
+  xy: 442, 135
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+虎身
+  rotate: false
+  xy: 1, 1
+  size: 114, 128
+  orig: 114, 128
+  offset: 0, 0
+  index: -1
+龙云
+  rotate: false
+  xy: 130, 106
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+龙头
+  rotate: false
+  xy: 255, 115
+  size: 64, 64
+  orig: 65, 65
+  offset: 0, 1
+  index: -1
+龙身
+  rotate: false
+  xy: 1, 130
+  size: 128, 116
+  orig: 128, 116
+  offset: 0, 0
+  index: -1

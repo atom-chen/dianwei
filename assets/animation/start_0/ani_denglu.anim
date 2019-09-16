@@ -1,0 +1,1322 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_denglu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 8,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "main/ren/shou_2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 1.2,
+              "value": -6.000000000000003
+            },
+            {
+              "frame": 1.4,
+              "value": 10
+            },
+            {
+              "frame": 1.52,
+              "value": -13
+            },
+            {
+              "frame": 1.6,
+              "value": -6
+            },
+            {
+              "frame": 5.68,
+              "value": -6
+            },
+            {
+              "frame": 5.88,
+              "value": 10
+            },
+            {
+              "frame": 6,
+              "value": -13
+            },
+            {
+              "frame": 6.08,
+              "value": -6
+            }
+          ]
+        }
+      },
+      "main/ren": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -78,
+              "curve": [
+                0.19666666666666666,
+                0,
+                0.7933333333333333,
+                1
+              ]
+            },
+            {
+              "frame": 0.8,
+              "value": -19,
+              "curve": [
+                0.21,
+                0,
+                0.8033333333333333,
+                0.9966666666666666
+              ]
+            },
+            {
+              "frame": 1.6,
+              "value": -78,
+              "curve": [
+                0.2,
+                0,
+                0.7933333333333333,
+                1.0033333333333332
+              ]
+            },
+            {
+              "frame": 2.4,
+              "value": -19,
+              "curve": [
+                0.19666666666666666,
+                0.0033333333333332993,
+                0.7933333333333333,
+                0.9999999999999999
+              ]
+            },
+            {
+              "frame": 3.2,
+              "value": -78,
+              "curve": [
+                0.19333333333333333,
+                0,
+                0.7866666666666666,
+                0.9999999999999999
+              ]
+            },
+            {
+              "frame": 4,
+              "value": -19,
+              "curve": [
+                0.19666666666666666,
+                0.0033333333333332993,
+                0.7933333333333333,
+                0.9999999999999999
+              ]
+            },
+            {
+              "frame": 4.8,
+              "value": -78,
+              "curve": [
+                0.19333333333333333,
+                0.0033333333333332993,
+                0.81,
+                0.9966666666666666
+              ]
+            },
+            {
+              "frame": 5.6,
+              "value": -19,
+              "curve": [
+                0.2,
+                0.0033333333333332993,
+                0.8,
+                0.9966666666666666
+              ]
+            },
+            {
+              "frame": 6.4,
+              "value": -78,
+              "curve": [
+                0.19333333333333333,
+                -0.0033333333333334103,
+                0.8066666666666666,
+                1
+              ]
+            },
+            {
+              "frame": 7.2,
+              "value": -19,
+              "curve": [
+                0.20333333333333334,
+                0,
+                0.8,
+                0.9966666666666666
+              ]
+            },
+            {
+              "frame": 8,
+              "value": -78
+            }
+          ]
+        }
+      },
+      "main/light_1/1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -45
+            },
+            {
+              "frame": 2,
+              "value": 43
+            },
+            {
+              "frame": 2.2,
+              "value": 43
+            },
+            {
+              "frame": 4,
+              "value": -45
+            },
+            {
+              "frame": 4.2,
+              "value": -45
+            },
+            {
+              "frame": 6,
+              "value": 43
+            },
+            {
+              "frame": 6.2,
+              "value": 43
+            },
+            {
+              "frame": 8,
+              "value": -45
+            }
+          ]
+        }
+      },
+      "main/light_1/2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -40
+            },
+            {
+              "frame": 2,
+              "value": 49
+            },
+            {
+              "frame": 2.2,
+              "value": 49
+            },
+            {
+              "frame": 4,
+              "value": -40
+            },
+            {
+              "frame": 4.2,
+              "value": -40
+            },
+            {
+              "frame": 6,
+              "value": 49
+            },
+            {
+              "frame": 6.2,
+              "value": 49
+            },
+            {
+              "frame": 8,
+              "value": -40
+            }
+          ]
+        }
+      },
+      "main/light_1/3": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -37
+            },
+            {
+              "frame": 2,
+              "value": 55
+            },
+            {
+              "frame": 2.2,
+              "value": 55
+            },
+            {
+              "frame": 4,
+              "value": -37
+            },
+            {
+              "frame": 4.2,
+              "value": -37
+            },
+            {
+              "frame": 6,
+              "value": 55
+            },
+            {
+              "frame": 6.2,
+              "value": 55
+            },
+            {
+              "frame": 8,
+              "value": -37
+            }
+          ]
+        }
+      },
+      "main/light_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 1.6,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.2,
+              "value": 0
+            },
+            {
+              "frame": 2.6,
+              "value": 255
+            },
+            {
+              "frame": 3.6,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.2,
+              "value": 0
+            },
+            {
+              "frame": 4.6,
+              "value": 255
+            },
+            {
+              "frame": 5.6,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 0
+            },
+            {
+              "frame": 6.2,
+              "value": 0
+            },
+            {
+              "frame": 6.6,
+              "value": 255
+            },
+            {
+              "frame": 7.6,
+              "value": 255
+            },
+            {
+              "frame": 8,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main/light_a/1_a": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -45
+            },
+            {
+              "frame": 2,
+              "value": 43
+            },
+            {
+              "frame": 2.2,
+              "value": 43
+            },
+            {
+              "frame": 4,
+              "value": -45
+            },
+            {
+              "frame": 4.2,
+              "value": -45
+            },
+            {
+              "frame": 6,
+              "value": 43
+            },
+            {
+              "frame": 6.2,
+              "value": 43
+            },
+            {
+              "frame": 8,
+              "value": -45
+            }
+          ]
+        }
+      },
+      "main/light_a/2_a": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -40
+            },
+            {
+              "frame": 2,
+              "value": 49
+            },
+            {
+              "frame": 2.2,
+              "value": 49
+            },
+            {
+              "frame": 4,
+              "value": -40
+            },
+            {
+              "frame": 4.2,
+              "value": -40
+            },
+            {
+              "frame": 6,
+              "value": 49
+            },
+            {
+              "frame": 6.2,
+              "value": 49
+            },
+            {
+              "frame": 8,
+              "value": -40
+            }
+          ]
+        }
+      },
+      "main/light_a/3_a": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -35
+            },
+            {
+              "frame": 2,
+              "value": 55
+            },
+            {
+              "frame": 2.2,
+              "value": 55
+            },
+            {
+              "frame": 4,
+              "value": -35
+            },
+            {
+              "frame": 4.2,
+              "value": -35
+            },
+            {
+              "frame": 6,
+              "value": 55
+            },
+            {
+              "frame": 6.2,
+              "value": 55
+            },
+            {
+              "frame": 8,
+              "value": -35
+            }
+          ]
+        }
+      },
+      "main/light_a": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 1.6,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.2,
+              "value": 0
+            },
+            {
+              "frame": 2.6,
+              "value": 255
+            },
+            {
+              "frame": 3.6,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.2,
+              "value": 0
+            },
+            {
+              "frame": 4.6,
+              "value": 255
+            },
+            {
+              "frame": 5.6,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 0
+            },
+            {
+              "frame": 6.2,
+              "value": 0
+            },
+            {
+              "frame": 6.6,
+              "value": 255
+            },
+            {
+              "frame": 7.6,
+              "value": 255
+            },
+            {
+              "frame": 8,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main/ren/shou_1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 1.2,
+              "value": 2
+            },
+            {
+              "frame": 1.4,
+              "value": -30
+            },
+            {
+              "frame": 1.52,
+              "value": 9
+            },
+            {
+              "frame": 1.6,
+              "value": 2
+            },
+            {
+              "frame": 5.68,
+              "value": 2
+            },
+            {
+              "frame": 5.88,
+              "value": -30
+            },
+            {
+              "frame": 6,
+              "value": 9
+            },
+            {
+              "frame": 6.08,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "main/ren/icon_1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.52,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.52,
+              "value": [
+                -114.7,
+                157.4
+              ],
+              "motionPath": [
+                [
+                  -178.7,
+                  152.8,
+                  -146.8,
+                  180.2,
+                  -232.9,
+                  109
+                ]
+              ]
+            },
+            {
+              "frame": 2.4,
+              "value": [
+                -247.8,
+                -60.7
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.2,
+              "value": 255
+            },
+            {
+              "frame": 2.4,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.52,
+              "value": 0
+            },
+            {
+              "frame": 2.4,
+              "value": -360
+            }
+          ]
+        }
+      },
+      "main/ren/icon_1a": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.6,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.6,
+              "value": [
+                -90,
+                169
+              ],
+              "motionPath": [
+                [
+                  -159,
+                  143,
+                  -130,
+                  185,
+                  -194,
+                  90
+                ]
+              ]
+            },
+            {
+              "frame": 2.4,
+              "value": [
+                -219,
+                -23
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.2,
+              "value": 255
+            },
+            {
+              "frame": 2.4,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.6,
+              "value": 0
+            },
+            {
+              "frame": 2.4,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "main/ren/icon_2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.52,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.52,
+              "value": [
+                116,
+                132
+              ],
+              "motionPath": [
+                [
+                  213.1,
+                  74.3,
+                  177.3,
+                  131.7,
+                  255.4,
+                  6.5
+                ]
+              ]
+            },
+            {
+              "frame": 2.4,
+              "value": [
+                273.3,
+                -120
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.2,
+              "value": 255
+            },
+            {
+              "frame": 2.4,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.52,
+              "value": 0
+            },
+            {
+              "frame": 2.4,
+              "value": 90
+            }
+          ]
+        }
+      },
+      "main/New Node/star": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            },
+            {
+              "frame": 4.8,
+              "value": 0
+            },
+            {
+              "frame": 5.2,
+              "value": 255
+            },
+            {
+              "frame": 5.6,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 0.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            },
+            {
+              "frame": 0.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 4.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 5.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            },
+            {
+              "frame": 5.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": 360
+            },
+            {
+              "frame": 4.8,
+              "value": 360
+            },
+            {
+              "frame": 5.6,
+              "value": 720
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.8,
+              "value": false
+            },
+            {
+              "frame": 4.8,
+              "value": true
+            },
+            {
+              "frame": 5.6,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 4.4,
+              "value": -450.2
+            },
+            {
+              "frame": 4.8,
+              "value": -1397
+            },
+            {
+              "frame": 5.6,
+              "value": -1397
+            }
+          ]
+        }
+      },
+      "main/New Node/star_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.4,
+              "value": 0
+            },
+            {
+              "frame": 2.8,
+              "value": 255
+            },
+            {
+              "frame": 3.2,
+              "value": 0
+            },
+            {
+              "frame": 6.8,
+              "value": 0
+            },
+            {
+              "frame": 7.2,
+              "value": 255
+            },
+            {
+              "frame": 7.6,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 2.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 2.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            },
+            {
+              "frame": 3.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 6.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 7.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            },
+            {
+              "frame": 7.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 2.4,
+              "value": 0
+            },
+            {
+              "frame": 3.2,
+              "value": 360
+            },
+            {
+              "frame": 6.8,
+              "value": 360
+            },
+            {
+              "frame": 7.6,
+              "value": 720
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.4,
+              "value": true
+            },
+            {
+              "frame": 3.2,
+              "value": false
+            },
+            {
+              "frame": 6.8,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 2.4,
+              "value": 100
+            },
+            {
+              "frame": 3.2,
+              "value": 99.2
+            },
+            {
+              "frame": 6.8,
+              "value": -897
+            }
+          ]
+        }
+      },
+      "main/New Node/bg_3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.36,
+              "value": true
+            }
+          ]
+        }
+      },
+      "main/New Node": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -54.3
+            },
+            {
+              "frame": 8,
+              "value": 1443
+            }
+          ]
+        }
+      },
+      "main/ren/icon_1a_fb": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 6,
+              "value": [
+                -105.8,
+                162.5
+              ],
+              "motionPath": [
+                [
+                  -195.4,
+                  118.5,
+                  -163.5,
+                  163.8,
+                  -239.9,
+                  55.5
+                ]
+              ]
+            },
+            {
+              "frame": 6.8,
+              "value": [
+                -262.8,
+                -60
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 6.48,
+              "value": 255
+            },
+            {
+              "frame": 6.8,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 6,
+              "value": 0
+            },
+            {
+              "frame": 6.8,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "main/ren/icon_1_fb": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6.08,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 6.08,
+              "value": [
+                -98.1,
+                169
+              ],
+              "motionPath": [
+                [
+                  -167.8,
+                  127.6,
+                  -140.6,
+                  173.9,
+                  -196.6,
+                  78.7
+                ]
+              ]
+            },
+            {
+              "frame": 6.88,
+              "value": [
+                -210.2,
+                -21.6
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 6.56,
+              "value": 255
+            },
+            {
+              "frame": 6.88,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 6.08,
+              "value": 0
+            },
+            {
+              "frame": 6.88,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "main/ren/icon_2_fb": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 6,
+              "value": [
+                108,
+                145
+              ],
+              "motionPath": [
+                [
+                  203,
+                  82,
+                  160,
+                  146,
+                  237,
+                  31
+                ]
+              ]
+            },
+            {
+              "frame": 6.88,
+              "value": [
+                263,
+                -88
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 6,
+              "value": 0
+            },
+            {
+              "frame": 6.88,
+              "value": 90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 6.68,
+              "value": 255
+            },
+            {
+              "frame": 6.88,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main/ren/erduo_2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -7
+            },
+            {
+              "frame": 0.8,
+              "value": 21
+            },
+            {
+              "frame": 1.6,
+              "value": -7
+            },
+            {
+              "frame": 2.4,
+              "value": 21
+            },
+            {
+              "frame": 3.2,
+              "value": -7
+            },
+            {
+              "frame": 4,
+              "value": 21
+            },
+            {
+              "frame": 4.8,
+              "value": -7
+            },
+            {
+              "frame": 5.6,
+              "value": 21
+            },
+            {
+              "frame": 6.4,
+              "value": -7
+            },
+            {
+              "frame": 7.2,
+              "value": 21
+            },
+            {
+              "frame": 8,
+              "value": -7
+            }
+          ]
+        }
+      },
+      "main/ren/erduo_1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 23
+            },
+            {
+              "frame": 0.8,
+              "value": -8
+            },
+            {
+              "frame": 1.6,
+              "value": 23
+            },
+            {
+              "frame": 2.4,
+              "value": -8
+            },
+            {
+              "frame": 3.2,
+              "value": 23
+            },
+            {
+              "frame": 4,
+              "value": -8
+            },
+            {
+              "frame": 4.8,
+              "value": 23
+            },
+            {
+              "frame": 5.6,
+              "value": -8
+            },
+            {
+              "frame": 6.4,
+              "value": 23
+            },
+            {
+              "frame": 7.2,
+              "value": -8
+            },
+            {
+              "frame": 8,
+              "value": 23
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

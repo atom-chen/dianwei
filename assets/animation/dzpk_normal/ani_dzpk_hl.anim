@@ -1,0 +1,610 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_dzpk_hl",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.4,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "main/tx_bg": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "main/bg": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 46
+            },
+            {
+              "frame": 0.16,
+              "value": 202
+            },
+            {
+              "frame": 0.28,
+              "value": 112
+            }
+          ]
+        }
+      },
+      "main/text_sz_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.28,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.52,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.72,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            },
+            {
+              "frame": 0.92,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 1.12,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "main/text_sz_2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.64,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.84,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            },
+            {
+              "frame": 1.04,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 1.24,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "main/shaizi_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.48,
+              "value": [
+                176,
+                367
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.64,
+              "value": [
+                176,
+                166
+              ],
+              "motionPath": [
+                [
+                  206.7,
+                  163.4,
+                  194.8,
+                  168.8,
+                  218.7,
+                  158
+                ]
+              ]
+            },
+            {
+              "frame": 0.8,
+              "value": [
+                223.8,
+                144.4
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.64,
+              "value": -90
+            },
+            {
+              "frame": 0.8,
+              "value": 30
+            },
+            {
+              "frame": 0.96,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.48,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "main/shaizi_2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.76,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.96,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.3,
+                "y": 0.3
+              }
+            },
+            {
+              "frame": 1.16,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.28,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.6,
+                "y": 0.6
+              }
+            }
+          ]
+        }
+      },
+      "main/start": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.12,
+              "value": 0
+            },
+            {
+              "frame": 1.4,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "main/start/start_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 2.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.4,
+              "value": 0
+            },
+            {
+              "frame": 2.2,
+              "value": 60
+            },
+            {
+              "frame": 3,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.4,
+              "value": 255
+            },
+            {
+              "frame": 1.92,
+              "value": 0
+            },
+            {
+              "frame": 2.48,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main/start/start_2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 2.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 3.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.6,
+              "value": 0
+            },
+            {
+              "frame": 2.4,
+              "value": 60
+            },
+            {
+              "frame": 3.2,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.6,
+              "value": 255
+            },
+            {
+              "frame": 2.12,
+              "value": 0
+            },
+            {
+              "frame": 2.72,
+              "value": 255
+            },
+            {
+              "frame": 3.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main/start/start_3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 2.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 3.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.8,
+              "value": 0
+            },
+            {
+              "frame": 2.6,
+              "value": 60
+            },
+            {
+              "frame": 3.4,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.4,
+              "value": 0
+            },
+            {
+              "frame": 1.8,
+              "value": 255
+            },
+            {
+              "frame": 2.32,
+              "value": 0
+            },
+            {
+              "frame": 2.8,
+              "value": 255
+            },
+            {
+              "frame": 3.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 3.2,
+              "value": 255
+            },
+            {
+              "frame": 3.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main/mask": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16,
+              "value": 187
+            }
+          ]
+        }
+      },
+      "main/hulu": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.52,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.72,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.92,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            },
+            {
+              "frame": 1.12,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 1.32,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

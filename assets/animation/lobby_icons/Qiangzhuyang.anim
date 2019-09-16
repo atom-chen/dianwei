@@ -1,0 +1,187 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Qiangzhuyang",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "Qiangzhuangzi/Mask01/Liuguang01": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.8333333333333334,
+              "value": -90.9
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 94.7
+            }
+          ]
+        }
+      },
+      "Qiangzhuangniuniu": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 29.8
+            },
+            {
+              "frame": 1.5,
+              "value": 23.9
+            },
+            {
+              "frame": 3,
+              "value": 29.8
+            }
+          ]
+        }
+      },
+      "Qiangzhuangzi": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Qiangzhuangpuke/Mask/Liuguang": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -70,
+                -58
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                97.5,
+                38.2
+              ]
+            }
+          ]
+        }
+      },
+      "Qiangzhuangzi/Light": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.3,
+                "y": 1.3
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.4333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.1666666666666667,
+              "value": -53
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 50
+            }
+          ]
+        }
+      },
+      "Qiangzhuangpuke": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                2.6,
+                4.2
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                2.6,
+                0
+              ]
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": [
+                2.6,
+                4.2
+              ]
+            }
+          ]
+        }
+      },
+      "QiangzhuangKzi": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1.5,
+              "value": 0.8
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 1
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "position": []
+    }
+  },
+  "events": []
+}

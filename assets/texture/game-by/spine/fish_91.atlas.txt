@@ -1,0 +1,76 @@
+
+fish_91.webp
+size: 497,986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/01
+  rotate: false
+  xy: 406, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/01(1)
+  rotate: false
+  xy: 2, 6
+  size: 200, 72
+  orig: 200, 72
+  offset: 0, 0
+  index: -1
+images/01(2)
+  rotate: true
+  xy: 361, 784
+  size: 200, 72
+  orig: 200, 72
+  offset: 0, 0
+  index: -1
+images/01(3)
+  rotate: true
+  xy: 361, 582
+  size: 200, 72
+  orig: 200, 72
+  offset: 0, 0
+  index: -1
+images/01(4)
+  rotate: true
+  xy: 361, 380
+  size: 200, 72
+  orig: 200, 72
+  offset: 0, 0
+  index: -1
+images/01(5)
+  rotate: true
+  xy: 361, 178
+  size: 200, 72
+  orig: 200, 72
+  offset: 0, 0
+  index: -1
+images/01(6)
+  rotate: false
+  xy: 204, 6
+  size: 200, 72
+  orig: 200, 72
+  offset: 0, 0
+  index: -1
+images/1
+  rotate: true
+  xy: 431, 68
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: true
+  xy: 2, 80
+  size: 904, 357
+  orig: 904, 357
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: true
+  xy: 361, 98
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1

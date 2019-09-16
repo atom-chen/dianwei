@@ -1,0 +1,959 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wutaiLight01",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 8,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "Light01": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 20
+            },
+            {
+              "frame": 2,
+              "value": 50
+            },
+            {
+              "frame": 4,
+              "value": -40
+            },
+            {
+              "frame": 6,
+              "value": 50
+            },
+            {
+              "frame": 8,
+              "value": 20
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 2,
+              "value": 150
+            },
+            {
+              "frame": 4,
+              "value": 100
+            },
+            {
+              "frame": 6,
+              "value": 150
+            },
+            {
+              "frame": 8,
+              "value": 100
+            }
+          ],
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 188,
+                "g": 126,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 123,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 122,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 214,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 7,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 102,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 8,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 255,
+                "b": 20,
+                "a": 255
+              }
+            }
+          ]
+        }
+      },
+      "Light02": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -20
+            },
+            {
+              "frame": 2,
+              "value": -50
+            },
+            {
+              "frame": 4,
+              "value": 40
+            },
+            {
+              "frame": 6,
+              "value": -50
+            },
+            {
+              "frame": 8,
+              "value": -20
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 2,
+              "value": 150
+            },
+            {
+              "frame": 4,
+              "value": 100
+            },
+            {
+              "frame": 6,
+              "value": 150
+            },
+            {
+              "frame": 8,
+              "value": 100
+            }
+          ],
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 188,
+                "g": 126,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 123,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 122,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 214,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 7,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 102,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 8,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 255,
+                "b": 20,
+                "a": 255
+              }
+            }
+          ]
+        }
+      },
+      "Light03": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -20
+            },
+            {
+              "frame": 2,
+              "value": 40
+            },
+            {
+              "frame": 4,
+              "value": -60
+            },
+            {
+              "frame": 6,
+              "value": 40
+            },
+            {
+              "frame": 8,
+              "value": -20
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 150
+            },
+            {
+              "frame": 4,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 150
+            },
+            {
+              "frame": 8,
+              "value": 255
+            }
+          ],
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 188,
+                "g": 126,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 10,
+                "g": 255,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 82,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 204,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 20,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 7,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 163,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 8,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 173,
+                "b": 255,
+                "a": 255
+              }
+            }
+          ]
+        }
+      },
+      "Light04": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 20
+            },
+            {
+              "frame": 2,
+              "value": -40
+            },
+            {
+              "frame": 4,
+              "value": 60
+            },
+            {
+              "frame": 6,
+              "value": -40
+            },
+            {
+              "frame": 8,
+              "value": 20
+            }
+          ],
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 188,
+                "g": 126,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 10,
+                "g": 255,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 82,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 204,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 20,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 7,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 163,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 8,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 173,
+                "b": 255,
+                "a": 255
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 150
+            },
+            {
+              "frame": 4,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 150
+            },
+            {
+              "frame": 8,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Light01/Glow": {
+        "props": {
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 188,
+                "g": 126,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 123,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 122,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 214,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 7,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 102,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 8,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 255,
+                "b": 20,
+                "a": 255
+              }
+            }
+          ]
+        }
+      },
+      "Light02/Glow": {
+        "props": {
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 188,
+                "g": 126,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 123,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 122,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 214,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 7,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 102,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 8,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 255,
+                "b": 20,
+                "a": 255
+              }
+            }
+          ]
+        }
+      },
+      "Light03/Glow": {
+        "props": {
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 188,
+                "g": 126,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 10,
+                "g": 255,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 82,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 204,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 20,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 7,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 163,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 8,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 173,
+                "b": 255,
+                "a": 255
+              }
+            }
+          ]
+        }
+      },
+      "Light04/Glow": {
+        "props": {
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 188,
+                "g": 126,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 10,
+                "g": 255,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 82,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 204,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 20,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 7,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 163,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 8,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 173,
+                "b": 255,
+                "a": 255
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,55 @@
+
+heji.webp
+size: 342,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuimuchushou1
+  rotate: true
+  xy: 640,10
+  size: 31, 91
+  orig: 31, 91
+  offset: 0, 0
+  index: -1
+shuimuchushou2
+  rotate: true
+  xy: 733,2
+  size: 16, 104
+  orig: 16, 104
+  offset: 0, 0
+  index: -1
+shuimuchushou3
+  rotate: true
+  xy: 733,20
+  size: 25, 84
+  orig: 25, 84
+  offset: 0, 0
+  index: -1
+shuimushenti1
+  rotate: false
+  xy: 794,60
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+shuimushenti2
+  rotate: false
+  xy: 723,47
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+zhangyushenti3
+  rotate: false
+  xy: 640,43
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+zhangyutou
+  rotate: true
+  xy: 507,6
+  size: 99, 131
+  orig: 99, 131
+  offset: 0, 0
+  index: -1

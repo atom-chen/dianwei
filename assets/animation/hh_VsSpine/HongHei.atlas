@@ -1,0 +1,83 @@
+
+HongHei.png
+size: 994,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Golw
+  rotate: false
+  xy: 0, 72
+  size: 393, 362
+  orig: 393, 362
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 954, 216
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Light01
+  rotate: false
+  xy: 954, 261
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+Queen
+  rotate: false
+  xy: 395, 191
+  size: 223, 243
+  orig: 223, 243
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 87, 3
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+V
+  rotate: true
+  xy: 0, 0
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 620, 177
+  size: 332, 128
+  orig: 332, 128
+  offset: 0, 0
+  index: -1
+king
+  rotate: true
+  xy: 610, 14
+  size: 161, 242
+  orig: 161, 242
+  offset: 0, 0
+  index: -1
+quan01
+  rotate: false
+  xy: 854, 1
+  size: 139, 174
+  orig: 139, 174
+  offset: 0, 0
+  index: -1
+quan02
+  rotate: true
+  xy: 395, 18
+  size: 171, 213
+  orig: 171, 213
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 620, 307
+  size: 334, 127
+  orig: 334, 127
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+fish_52.png
+size: 491,789
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 428, 83
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 299, 251
+  size: 188, 152
+  orig: 188, 152
+  offset: 0, 0
+  index: -1
+shangqixiao
+  rotate: true
+  xy: 378, 68
+  size: 97, 48
+  orig: 97, 48
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: true
+  xy: 225, 32
+  size: 202, 151
+  orig: 202, 151
+  offset: 0, 0
+  index: -1
+xiaqixiao
+  rotate: false
+  xy: 378, 167
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+yu tou
+  rotate: false
+  xy: 299, 405
+  size: 169, 382
+  orig: 169, 382
+  offset: 0, 0
+  index: -1
+yushen
+  rotate: true
+  xy: 2, 236
+  size: 551, 295
+  orig: 551, 295
+  offset: 0, 0
+  index: -1
+yuwei
+  rotate: false
+  xy: 2, 2
+  size: 221, 232
+  orig: 221, 232
+  offset: 0, 0
+  index: -1

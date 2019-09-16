@@ -1,0 +1,251 @@
+
+Girl02.png
+size: 772,773
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanBiyan
+  rotate: false
+  xy: 421, 0
+  size: 106, 35
+  orig: 106, 35
+  offset: 0, 0
+  index: -1
+Biyan
+  rotate: false
+  xy: 529, 0
+  size: 105, 35
+  orig: 105, 35
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 0, 524
+  size: 225, 249
+  orig: 225, 249
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 485, 427
+  size: 155, 182
+  orig: 155, 182
+  offset: 0, 0
+  index: -1
+LeftArm01
+  rotate: false
+  xy: 495, 246
+  size: 105, 179
+  orig: 105, 179
+  offset: 0, 0
+  index: -1
+LeftArm02
+  rotate: false
+  xy: 703, 297
+  size: 69, 129
+  orig: 69, 129
+  offset: 0, 0
+  index: -1
+LeftChest
+  rotate: false
+  xy: 549, 143
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 0, 292
+  size: 207, 230
+  orig: 207, 230
+  offset: 0, 0
+  index: -1
+LeftYi01
+  rotate: false
+  xy: 359, 0
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+LeftYi02
+  rotate: false
+  xy: 703, 256
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+Lingdang01
+  rotate: false
+  xy: 598, 37
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Lingdang02
+  rotate: false
+  xy: 533, 37
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 636, 0
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+Puke
+  rotate: false
+  xy: 721, 54
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+Qunzi
+  rotate: true
+  xy: 0, 63
+  size: 227, 180
+  orig: 227, 180
+  offset: 0, 0
+  index: -1
+RightArm01
+  rotate: false
+  xy: 415, 228
+  size: 78, 193
+  orig: 78, 193
+  offset: 0, 0
+  index: -1
+RightArm02
+  rotate: false
+  xy: 674, 569
+  size: 83, 204
+  orig: 83, 204
+  offset: 0, 0
+  index: -1
+RightChest
+  rotate: false
+  xy: 651, 150
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 227, 423
+  size: 146, 256
+  orig: 146, 256
+  offset: 0, 0
+  index: -1
+RightYi
+  rotate: false
+  xy: 461, 97
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+Righthand
+  rotate: true
+  xy: 461, 37
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+Thumb
+  rotate: true
+  xy: 649, 54
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+YI01
+  rotate: false
+  xy: 700, 14
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+Yifu
+  rotate: true
+  xy: 669, 428
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+Zhengyan
+  rotate: false
+  xy: 651, 114
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 454, 584
+  size: 218, 189
+  orig: 218, 189
+  offset: 0, 0
+  index: -1
+hair01
+  rotate: false
+  xy: 209, 226
+  size: 204, 195
+  orig: 204, 195
+  offset: 0, 0
+  index: -1
+hair02
+  rotate: false
+  xy: 182, 52
+  size: 175, 172
+  orig: 175, 172
+  offset: 0, 0
+  index: -1
+hair03
+  rotate: false
+  xy: 227, 571
+  size: 225, 202
+  orig: 225, 202
+  offset: 0, 0
+  index: -1
+hair04
+  rotate: true
+  xy: 0, 1
+  size: 60, 170
+  orig: 60, 170
+  offset: 0, 0
+  index: -1
+hair05
+  rotate: false
+  xy: 359, 56
+  size: 100, 168
+  orig: 100, 168
+  offset: 0, 0
+  index: -1
+hair06
+  rotate: false
+  xy: 602, 252
+  size: 99, 173
+  orig: 99, 173
+  offset: 0, 0
+  index: -1
+hair07
+  rotate: false
+  xy: 549, 67
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1
+hair08
+  rotate: true
+  xy: 172, 3
+  size: 47, 137
+  orig: 47, 137
+  offset: 0, 0
+  index: -1
+lefthand
+  rotate: true
+  xy: 649, 71
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1

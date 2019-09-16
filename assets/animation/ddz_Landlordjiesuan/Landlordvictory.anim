@@ -1,0 +1,334 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Landlordvictory",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 13,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "BgColor": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 180
+            },
+            {
+              "frame": 12.5,
+              "value": 180
+            },
+            {
+              "frame": 13,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Di": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "cubicInOut"
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 12.5,
+              "value": 255
+            },
+            {
+              "frame": 13,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Choudai": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.03333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 12.333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 13,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "D_victory04": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3.3,
+                "y": 3.3
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 12.666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 13,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 13,
+              "value": 260
+            }
+          ]
+        }
+      },
+      "dz_02": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.2,
+                "y": 2.2
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.1,
+                "y": 2.1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 12.5,
+              "value": 255
+            },
+            {
+              "frame": 13,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "victory/a_li": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.9,
+                "y": 0.9
+              }
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 12.666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 13,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "victory/a_sheng": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.9,
+                "y": 0.9
+              }
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 12.666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 13,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "victory/a_sheng/Mask01/Liuguang": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.8333333333333334,
+              "value": -67.7
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 67
+            }
+          ]
+        }
+      },
+      "victory/a_li/Mask02/Liuguang02": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.1666666666666667,
+              "value": -64.5
+            },
+            {
+              "frame": 1.5,
+              "value": 68.5
+            }
+          ]
+        }
+      },
+      "Particle": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.36666666666666664,
+                "value": 0
+              },
+              {
+                "frame": 0.5,
+                "value": 10
+              },
+              {
+                "frame": 11.666666666666666,
+                "value": 10
+              },
+              {
+                "frame": 12,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

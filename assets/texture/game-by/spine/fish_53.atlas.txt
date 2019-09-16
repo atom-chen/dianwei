@@ -1,0 +1,41 @@
+
+fish_53.png
+size: 476,949
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 393, 872
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 210, 21
+  size: 156, 142
+  orig: 156, 142
+  offset: 0, 0
+  index: -1
+sahgnqi
+  rotate: true
+  xy: 354, 2
+  size: 175, 119
+  orig: 175, 119
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 179
+  size: 768, 389
+  orig: 768, 389
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 19
+  size: 158, 206
+  orig: 158, 206
+  offset: 0, 0
+  index: -1

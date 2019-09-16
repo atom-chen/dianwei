@@ -1,0 +1,539 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "youwinGame",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 40,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "af_win.2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 0.05,
+              "value": 1.6
+            },
+            {
+              "frame": 0.2,
+              "value": 1.4
+            },
+            {
+              "frame": 0.225,
+              "value": 1
+            },
+            {
+              "frame": 0.375,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 0.05,
+              "value": 1.6
+            },
+            {
+              "frame": 0.2,
+              "value": 1.4
+            },
+            {
+              "frame": 0.225,
+              "value": 1
+            },
+            {
+              "frame": 0.375,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.025,
+              "value": 120
+            },
+            {
+              "frame": 0.225,
+              "value": 155
+            },
+            {
+              "frame": 0.375,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "af_win.1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.4
+            },
+            {
+              "frame": 0.05,
+              "value": 0.6
+            },
+            {
+              "frame": 0.2,
+              "value": 0.6
+            },
+            {
+              "frame": 0.225,
+              "value": 1
+            },
+            {
+              "frame": 1.75,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.4
+            },
+            {
+              "frame": 0.05,
+              "value": 0.6
+            },
+            {
+              "frame": 0.2,
+              "value": 0.6
+            },
+            {
+              "frame": 0.225,
+              "value": 1
+            },
+            {
+              "frame": 1.75,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.025,
+              "value": 120
+            },
+            {
+              "frame": 0.225,
+              "value": 255
+            },
+            {
+              "frame": 1.75,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_animation_05.1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.225,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 120
+            },
+            {
+              "frame": 0.425,
+              "value": 255
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.775,
+              "value": 255
+            },
+            {
+              "frame": 0.95,
+              "value": 0
+            },
+            {
+              "frame": 1.125,
+              "value": 255
+            },
+            {
+              "frame": 1.3,
+              "value": 0
+            },
+            {
+              "frame": 1.475,
+              "value": 255
+            },
+            {
+              "frame": 1.65,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.425,
+              "value": 15
+            },
+            {
+              "frame": 0.6,
+              "value": 30
+            },
+            {
+              "frame": 0.775,
+              "value": 45
+            },
+            {
+              "frame": 0.95,
+              "value": 60
+            },
+            {
+              "frame": 1.125,
+              "value": 75
+            },
+            {
+              "frame": 1.3,
+              "value": 90
+            },
+            {
+              "frame": 1.475,
+              "value": 105
+            },
+            {
+              "frame": 1.65,
+              "value": 120
+            }
+          ]
+        }
+      },
+      "bg_animation_05.2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.425,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 255
+            },
+            {
+              "frame": 0.775,
+              "value": 0
+            },
+            {
+              "frame": 0.95,
+              "value": 255
+            },
+            {
+              "frame": 1.125,
+              "value": 0
+            },
+            {
+              "frame": 1.3,
+              "value": 255
+            },
+            {
+              "frame": 1.475,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.425,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 15
+            },
+            {
+              "frame": 0.775,
+              "value": 30
+            },
+            {
+              "frame": 0.95,
+              "value": 45
+            },
+            {
+              "frame": 1.125,
+              "value": 60
+            },
+            {
+              "frame": 1.3,
+              "value": 75
+            },
+            {
+              "frame": 1.475,
+              "value": 90
+            }
+          ]
+        }
+      },
+      "bg_animation_05.3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.225,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 120
+            },
+            {
+              "frame": 0.425,
+              "value": 255
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.775,
+              "value": 255
+            },
+            {
+              "frame": 0.95,
+              "value": 0
+            },
+            {
+              "frame": 1.125,
+              "value": 255
+            },
+            {
+              "frame": 1.3,
+              "value": 0
+            },
+            {
+              "frame": 1.475,
+              "value": 255
+            },
+            {
+              "frame": 1.65,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.425,
+              "value": 15
+            },
+            {
+              "frame": 0.6,
+              "value": 30
+            },
+            {
+              "frame": 0.775,
+              "value": 45
+            },
+            {
+              "frame": 0.95,
+              "value": 60
+            },
+            {
+              "frame": 1.125,
+              "value": 75
+            },
+            {
+              "frame": 1.3,
+              "value": 90
+            },
+            {
+              "frame": 1.475,
+              "value": 105
+            },
+            {
+              "frame": 1.65,
+              "value": 120
+            }
+          ]
+        }
+      },
+      "bg_animation_05.4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.425,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 255
+            },
+            {
+              "frame": 0.775,
+              "value": 0
+            },
+            {
+              "frame": 0.95,
+              "value": 255
+            },
+            {
+              "frame": 1.125,
+              "value": 0
+            },
+            {
+              "frame": 1.3,
+              "value": 255
+            },
+            {
+              "frame": 1.475,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.425,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 15
+            },
+            {
+              "frame": 0.775,
+              "value": 30
+            },
+            {
+              "frame": 0.95,
+              "value": 45
+            },
+            {
+              "frame": 1.125,
+              "value": 60
+            },
+            {
+              "frame": 1.3,
+              "value": 75
+            },
+            {
+              "frame": 1.475,
+              "value": 90
+            }
+          ]
+        }
+      },
+      "bg_animation_05.5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.225,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 120
+            },
+            {
+              "frame": 0.425,
+              "value": 255
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.775,
+              "value": 255
+            },
+            {
+              "frame": 0.95,
+              "value": 0
+            },
+            {
+              "frame": 1.125,
+              "value": 255
+            },
+            {
+              "frame": 1.3,
+              "value": 0
+            },
+            {
+              "frame": 1.475,
+              "value": 255
+            },
+            {
+              "frame": 1.65,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.425,
+              "value": 15
+            },
+            {
+              "frame": 0.6,
+              "value": 30
+            },
+            {
+              "frame": 0.775,
+              "value": 45
+            },
+            {
+              "frame": 0.95,
+              "value": 60
+            },
+            {
+              "frame": 1.125,
+              "value": 75
+            },
+            {
+              "frame": 1.3,
+              "value": 90
+            },
+            {
+              "frame": 1.475,
+              "value": 105
+            },
+            {
+              "frame": 1.65,
+              "value": 120
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

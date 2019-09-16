@@ -1,0 +1,335 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_dzpk_hjths",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.8,
+  "sample": 25,
+  "speed": 0.7,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "main/tx_hjths_09": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.68,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.56,
+              "value": 0
+            },
+            {
+              "frame": 0.76,
+              "value": 255
+            },
+            {
+              "frame": 1.16,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.68,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.16,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 5,
+                "y": 5
+              }
+            }
+          ]
+        }
+      },
+      "main/tx_hjths_02": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.44,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.52,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.4,
+              "value": [
+                8,
+                680
+              ]
+            },
+            {
+              "frame": 0.6,
+              "value": [
+                8,
+                190.6
+              ]
+            },
+            {
+              "frame": 0.68,
+              "value": [
+                8,
+                209.7
+              ]
+            },
+            {
+              "frame": 0.76,
+              "value": [
+                8,
+                193.6
+              ]
+            }
+          ]
+        }
+      },
+      "main": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.6,
+              "value": 255
+            },
+            {
+              "frame": 2.8,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main/win_settlement_05": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.88,
+              "value": 0
+            },
+            {
+              "frame": 1.12,
+              "value": 255
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2.6,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "main/tx_hjths_11": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.92,
+              "value": 0
+            },
+            {
+              "frame": 1.2,
+              "value": 255
+            },
+            {
+              "frame": 1.24,
+              "value": 255
+            },
+            {
+              "frame": 1.48,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": [
+                0.027011494252873497,
+                0.7137931034482758,
+                0.5275862068965518,
+                0.9701149425287355
+              ]
+            },
+            {
+              "frame": 1.48,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            }
+          ]
+        }
+      },
+      "main/text": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 10,
+                "y": 10
+              },
+              "curve": [
+                1.1125,
+                0.0024999999999999467,
+                0.59,
+                0.9975
+              ]
+            },
+            {
+              "frame": 0.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            },
+            {
+              "frame": 0.72,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "main/di": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.4,
+              "value": 6
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "main/sichou/sidai_1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.8,
+              "value": -42
+            },
+            {
+              "frame": 1.28,
+              "value": 15
+            },
+            {
+              "frame": 1.76,
+              "value": -4.699999999999846
+            },
+            {
+              "frame": 2.32,
+              "value": 20
+            },
+            {
+              "frame": 2.8,
+              "value": -4.7
+            }
+          ]
+        }
+      },
+      "main/sichou/sidai_2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.8,
+              "value": 26
+            },
+            {
+              "frame": 1.2,
+              "value": -76
+            },
+            {
+              "frame": 1.72,
+              "value": -99
+            },
+            {
+              "frame": 2.28,
+              "value": -75
+            },
+            {
+              "frame": 2.8,
+              "value": -92
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,41 @@
+
+heji.webp
+size: 149,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan2
+  rotate: true
+  xy: 544,200
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 433,129
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+yuqi_shang
+  rotate: true
+  xy: 505,173
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+yuqi_xia
+  rotate: true
+  xy: 544,219
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+yuwei
+  rotate: false
+  xy: 505,130
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1

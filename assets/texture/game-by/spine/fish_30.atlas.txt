@@ -1,0 +1,174 @@
+
+fish_30.webp
+size: 772,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 80
+  size: 122, 421
+  orig: 122, 421
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 754, 53
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 617, 2
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: true
+  xy: 477, 4
+  size: 15, 66
+  orig: 15, 66
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 752, 24
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 754, 41
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 736, 108
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 736, 77
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 721, 11
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+shou1v
+  rotate: false
+  xy: 477, 21
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 731, 148
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+shou3
+  rotate: true
+  xy: 628, 133
+  size: 69, 101
+  orig: 69, 101
+  offset: 0, 0
+  index: -1
+shouhuan
+  rotate: false
+  xy: 721, 41
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 543, 30
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 425, 110
+  size: 92, 201
+  orig: 92, 201
+  offset: 0, 0
+  index: -1
+touhua1
+  rotate: false
+  xy: 707, 76
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+touhua2
+  rotate: true
+  xy: 425, 90
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 10
+  size: 68, 473
+  orig: 68, 473
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 585, 8
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: true
+  xy: 545, 4
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: true
+  xy: 731, 173
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+xionghua
+  rotate: false
+  xy: 736, 18
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+yaojia
+  rotate: false
+  xy: 628, 70
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+yaoqi
+  rotate: true
+  xy: 666, 7
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "97c3a33a-d7a4-4aa9-88a0-f010cf448b4e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Paodekuaidiban": {
+      "ver": "1.0.3",
+      "uuid": "a1fe70e8-7f3c-4b61-9385-e6bdc0d41d6b",
+      "rawTextureUuid": "97c3a33a-d7a4-4aa9-88a0-f010cf448b4e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 213,
+      "height": 145,
+      "rawWidth": 213,
+      "rawHeight": 145,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

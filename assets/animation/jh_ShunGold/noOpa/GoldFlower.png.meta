@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "274772da-c354-40a6-85c0-ff34b8471220",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GoldFlower": {
+      "ver": "1.0.3",
+      "uuid": "290476ec-d25c-4419-a6b9-582cb69bc9e4",
+      "rawTextureUuid": "274772da-c354-40a6-85c0-ff34b8471220",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 119,
+      "height": 86,
+      "rawWidth": 119,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

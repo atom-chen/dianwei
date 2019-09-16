@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6768be5d-b987-4eb5-ba38-f549dd336c66",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pdk_logo": {
+      "ver": "1.0.3",
+      "uuid": "b59ada75-2aff-42f6-84c5-9a364c5899b2",
+      "rawTextureUuid": "6768be5d-b987-4eb5-ba38-f549dd336c66",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 205,
+      "height": 173,
+      "rawWidth": 205,
+      "rawHeight": 173,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

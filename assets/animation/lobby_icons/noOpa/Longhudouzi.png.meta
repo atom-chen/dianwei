@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f9261b08-b480-4d3e-a96c-157d6df1283e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Longhudouzi": {
+      "ver": "1.0.3",
+      "uuid": "a9ae73f3-69ae-4a39-a6e0-e4101acfd312",
+      "rawTextureUuid": "f9261b08-b480-4d3e-a96c-157d6df1283e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 149,
+      "height": 78,
+      "rawWidth": 149,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

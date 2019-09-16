@@ -1,0 +1,129 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Feiji",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Feiji": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 948
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": -870
+            }
+          ]
+        }
+      },
+      "t_feiji": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.5,
+              "value": 245
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -124
+            },
+            {
+              "frame": 1,
+              "value": -58
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "t_feiji/t_xian": {
+        "props": {
+          "x": [],
+          "opacity": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "t_feiji/particles": {
+        "props": {
+          "opacity": []
+        },
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.4,
+                "value": 0
+              },
+              {
+                "frame": 0.43333333333333335,
+                "value": 200
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": 100
+              },
+              {
+                "frame": 0.9333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "t_feiji/Light": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 100
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 80
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

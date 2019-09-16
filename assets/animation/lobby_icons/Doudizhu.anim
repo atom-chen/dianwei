@@ -1,0 +1,257 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Doudizhu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "doudizhuzhadan": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "doudizhuzi": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 1.3333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 1.1
+            },
+            {
+              "frame": 2,
+              "value": 0.9
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "doudizhuMan": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.05,
+                "y": 1.05
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Mask02/Liuguang": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.5,
+              "value": [
+                -40.5,
+                5.5
+              ]
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": [
+                14.2,
+                -28.3
+              ]
+            }
+          ]
+        }
+      },
+      "doudizhuzi/Mask/Liuguang01": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -85,
+                0
+              ]
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": [
+                83.9,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "doudizhuchouma": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.05,
+                "y": 1.05
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "position": []
+        }
+      },
+      "D_Light01": {
+        "props": {
+          "scale": [
+            {
+              "frame": 2.066666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 2.5,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 2.066666666666667,
+              "value": -25
+            },
+            {
+              "frame": 2.5,
+              "value": 50
+            }
+          ]
+        }
+      },
+      "doudizhuMan/D_Light02": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.8333333333333333,
+              "value": 200
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.5,
+              "value": -25
+            },
+            {
+              "frame": 2,
+              "value": 25
+            }
+          ]
+        }
+      },
+      "doudizhudiban": {
+        "props": {
+          "position": []
+        }
+      }
+    }
+  },
+  "events": []
+}

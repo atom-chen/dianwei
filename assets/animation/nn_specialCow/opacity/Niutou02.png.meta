@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1f85c62e-6b49-4deb-a7ba-4625a2050d2b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Niutou02": {
+      "ver": "1.0.3",
+      "uuid": "87ab414a-75dd-47a1-8389-9f8383dfca30",
+      "rawTextureUuid": "1f85c62e-6b49-4deb-a7ba-4625a2050d2b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 153,
+      "rawWidth": 144,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

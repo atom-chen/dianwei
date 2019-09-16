@@ -1,0 +1,139 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Puke",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "pai_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -521.5,
+                -103.3
+              ],
+              "motionPath": [
+                [
+                  -513.15,
+                  -111.38,
+                  -513.72,
+                  -102.73,
+                  -513.34,
+                  -120.32
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -521.5,
+                -120
+              ],
+              "motionPath": [
+                [
+                  -528.65,
+                  -111.35,
+                  -528.49,
+                  -119.24,
+                  -528.81,
+                  -103.67
+                ]
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -521.5,
+                -103.3
+              ],
+              "motionPath": []
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 0.9
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "pai_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                522,
+                -131
+              ],
+              "motionPath": [
+                [
+                  513.1,
+                  -121.4,
+                  513.3,
+                  -131.4,
+                  513.1,
+                  -113.2
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                522,
+                -113
+              ],
+              "motionPath": [
+                [
+                  529.53,
+                  -121.7,
+                  529.77,
+                  -113.99,
+                  529.61,
+                  -131.08
+                ]
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                522,
+                -131
+              ],
+              "motionPath": []
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.15
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1a41e3c5-6b01-43db-a669-eada2e77536e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pinsanzhangboy": {
+      "ver": "1.0.3",
+      "uuid": "2250cb35-8c6d-43fa-b412-e0d25d5d866c",
+      "rawTextureUuid": "1a41e3c5-6b01-43db-a669-eada2e77536e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 135,
+      "height": 162,
+      "rawWidth": 137,
+      "rawHeight": 162,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0d2b8aed-43d4-4b2b-b998-0af9ec1d67ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Paodekuaizi": {
+      "ver": "1.0.3",
+      "uuid": "2912cd9f-f7b4-4736-aea2-a5cbde79188c",
+      "rawTextureUuid": "0d2b8aed-43d4-4b2b-b998-0af9ec1d67ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 151,
+      "height": 77,
+      "rawWidth": 151,
+      "rawHeight": 77,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,76 @@
+
+heji.webp
+size: 465,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0012
+  rotate: false
+  xy: 1182,1405
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+wg0
+  rotate: true
+  xy: 982,1012
+  size: 181, 128
+  orig: 181, 128
+  offset: 0, 0
+  index: -1
+wg1
+  rotate: true
+  xy: 1112,1017
+  size: 176, 113
+  orig: 176, 113
+  offset: 0, 0
+  index: -1
+wg2
+  rotate: true
+  xy: 1227,1030
+  size: 163, 195
+  orig: 163, 195
+  offset: 0, 0
+  index: -1
+wg3
+  rotate: true
+  xy: 982,1195
+  size: 248, 198
+  orig: 248, 198
+  offset: 0, 0
+  index: -1
+wg4
+  rotate: false
+  xy: 1182,1195
+  size: 157, 112
+  orig: 157, 112
+  offset: 0, 0
+  index: -1
+wg5
+  rotate: true
+  xy: 1424,1183
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+wg6
+  rotate: true
+  xy: 1182,1317
+  size: 86, 33
+  orig: 86, 33
+  offset: 0, 0
+  index: -1
+wg7
+  rotate: false
+  xy: 1341,1238
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+wg8
+  rotate: true
+  xy: 1227,1309
+  size: 134, 206
+  orig: 134, 206
+  offset: 0, 0
+  index: -1

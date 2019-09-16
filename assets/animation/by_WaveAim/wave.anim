@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wave",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.11666666666666667,
+  "sample": 60,
+  "speed": 0.8,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {}
+    },
+    "props": {},
+    "paths": {
+      "wava1": {
+        "comps": {
+          "cc.Sprite": {}
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "wava2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 150
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

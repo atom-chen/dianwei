@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0a636425-1f43-4012-b1ca-dde2a7aa06f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "errenmajiangGirl02": {
+      "ver": "1.0.3",
+      "uuid": "a675f34a-2694-4648-b555-3b3e0eb73fce",
+      "rawTextureUuid": "0a636425-1f43-4012-b1ca-dde2a7aa06f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 24,
+      "height": 47,
+      "rawWidth": 24,
+      "rawHeight": 47,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,62 @@
+
+fish_61.png
+size: 466,801
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 418, 11
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: true
+  xy: 299, 239
+  size: 188, 152
+  orig: 188, 152
+  offset: 0, 0
+  index: -1
+shangqixiao
+  rotate: false
+  xy: 319, 36
+  size: 97, 48
+  orig: 97, 48
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 225, 86
+  size: 202, 151
+  orig: 202, 151
+  offset: 0, 0
+  index: -1
+xiaqixiao
+  rotate: false
+  xy: 225, 2
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+yu tou
+  rotate: false
+  xy: 299, 429
+  size: 160, 370
+  orig: 160, 370
+  offset: 0, 0
+  index: -1
+yushen
+  rotate: true
+  xy: 2, 248
+  size: 551, 295
+  orig: 551, 295
+  offset: 0, 0
+  index: -1
+yuwei
+  rotate: false
+  xy: 2, 14
+  size: 221, 232
+  orig: 221, 232
+  offset: 0, 0
+  index: -1
